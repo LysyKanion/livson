@@ -5,10 +5,5 @@
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
   },
-<<<<<<< HEAD
-  "devDependencies": {},
-}
-=======
   "devDependencies": {}
 }
->>>>>>> ade25b458e6a89efd44bd1522fe2b9948d2c8bf8
