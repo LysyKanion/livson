@@ -5,20 +5,4 @@
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
   },
-  "main": "index.js",
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LysyKanion/livson.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LysyKanion/livson/issues"
-  },
-  "homepage": "https://github.com/LysyKanion/livson#readme",
-  "description": ""
-}
